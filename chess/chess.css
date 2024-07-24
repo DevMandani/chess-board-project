@@ -1,0 +1,41 @@
+
+		.first{
+				height:100px;
+				width:100px;
+				background-color:#f5d378;
+				float:left;
+				text-align:center;
+				line-height:100px;
+				font-size:50px;
+				color:black;
+				
+		
+				
+			}
+			.border{
+				
+				position:fixed;
+				top:20px;
+				right:30%;
+			}
+			.second{
+				height:100px;
+				width:100px;
+				background-color:#fcbb08;
+				float:left;
+				text-align:center;
+				line-height:100px;
+				font-size:50px;
+				color:black;
+			}
+			.first{
+				border:5px solid black;
+			}
+			.second{
+				border:5px solid black;
+			}
+			
+			.clear{
+				clear:both;
+			}
+		
